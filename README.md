@@ -20,7 +20,7 @@
 
  * Clone this tutorial from github:
   ```
-     git clone git@github.com:ryan-td/learn_coding.git
+     git clone git@github.com:ryan-td/banana.git
   ```
   
   * make a ~/.virtualenvs directory if it does not already exist:
@@ -31,15 +31,15 @@
  * Create a virtual environment and a bash shortcut:
  ```
     cd ~/.virtualenvs
-    virtualenv -p python3.6 learn_python
-    echo 'alias learn-py="source ~/.virtualenvs/learn_python/bin/activate; cd ~/Documents/learn_coding; export"' >> ~/.bash_profile
+    virtualenv -p python3.6 banana
+    echo 'alias open-banana="source ~/.virtualenvs/banana/bin/activate; cd ~/Documents/banana; export"' >> ~/.bash_profile
  ```
  
   * open a new Terminal window or tab
   
   * this will go to the right directory and activate the virtualenv:
   ```
-     learn-py
+     open-banana
   ```
  
   * Install required python packages:
@@ -54,7 +54,7 @@
  
  * this will go to the right directory and activate the virtualenv:
   ```
-     learn-py
+     open-banana
   ```
  * start the jupyter notebook server:
  ```

@@ -1,5 +1,8 @@
 # Introduction to Programming with Python
 
+Lesson content copied from MIT Open Courseware:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/
+
 ## Getting Started (One-time setup)
 
  * Download Python 3.6: https://www.python.org/downloads/
